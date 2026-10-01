@@ -1,4 +1,4 @@
-// Javascript Counter.
+// Javascript Counter
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +24,7 @@
         </style>
 </head>
 <body style="text-align:center">
-        <h1>Geeksforgeeks</h1>
+        <h1>Meta Brains</h1>
         <p>COUNTS</p>
         <div id="counter">
                  <!-- counts -->
@@ -42,3 +42,4 @@
                 }
         </script>
 </body>
+</html>
